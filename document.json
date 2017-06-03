@@ -1,0 +1,44 @@
+[
+  {
+    "userName": "sfg",
+    "password": 123,
+    "profile": {
+      "firstName": "Sandesh",
+      "lastName": "Sandesh",
+      "mobileNo": 12341864,
+      "dateOfBirth": "28-02-1994"
+    },
+    "securityQuestion": {
+      "question": "Mother's Name",
+      "answer": "xyz"
+    }
+  },
+  {
+    "userName": "df",
+    "password": 134523,
+    "profile": {
+      "firstName": "hemant",
+      "lastName": "shinde",
+      "mobileNo": 12341864,
+      "dateOfBirth": "28-02-1994"
+    },
+    "securityQuestion": {
+      "question": "Mother's Name",
+      "answer": "xyz"
+    }
+  },
+  {
+    "userName": "sfg",
+    "password": 123,
+    "profile": {
+      "firstName": "Sandesh",
+      "lastName": "Sandesh",
+      "mobileNo": 12341864,
+      "dateOfBirth": "28-02-1994"
+    },
+    "securityQuestion": {
+      "question": "Mother's Name",
+      "answer": "xyz"
+    }
+  }
+]
